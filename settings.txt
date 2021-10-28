@@ -1,0 +1,3 @@
+server_url: https://mts.easix.ru     ; URL сервера
+stand_id: 1                           ; ID стенда
+stand_token: B7C8CCE779F58C8399C81C0ACD392E3036621544 ; Секретный токен для стенда
